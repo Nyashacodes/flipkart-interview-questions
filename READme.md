@@ -1,0 +1,4 @@
+# in this i will be solving all the dsa and machine coding problems asked in flipkart interviews and also will be sharing the solutions of those problems in this repository.
+## i have done a research on the internet and found out that the most commonly asked problems in flipkart interviews are related to arrays, strings, linked lists, trees, graphs, dynamic programming and backtracking. so i will be solving problems related to these topics and sharing the solutions in this repository.
+## i will be solving the problems in javascript.
+# the repo name is "flipkart-interview-questions" and i will be updating the repo regularly with new problems and solutions. i will also be adding a readme file for each problem with the problem statement, approach and solution. so stay tuned for more updates.
